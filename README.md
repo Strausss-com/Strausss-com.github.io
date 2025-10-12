@@ -1,7 +1,7 @@
 # The flat in Montmartre
 
 ## Photos
-
+![alt text](A1.jpg)
 
 ## Arrival
 
@@ -26,13 +26,14 @@
 - Table extends
 - Desk
 - Construction
-- Heating
+- Petrol Heating
 
 ### Living room
 - Couch
 - Matress
 - Bedding
 - TV stuff
+- Electric heating
   
 ### Bedroom
 - Bottom drawer
@@ -43,15 +44,25 @@
 - Squeegee:
 - Washing machine 
 
-## Outside
+## Going Outside
+### Bakeries
+- Opposite
+- Over there
+- Pain Pain
+- 
 ### Groceries
-
+- Intermache
+- Carrefour
+- Minimart
+- Butcher
+- 
 
 ### Shops 
 - 2nd hand clothes
 - Castorama
 - Gifi
 - St Pierre
+- Au kilo
 
 ### Bars & Restaurants
 
