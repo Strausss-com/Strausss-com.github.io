@@ -1,8 +1,7 @@
 # The flat in Montmartre
 
 ## Photos
-![alt text](A1.jpeg| width=100)
-<img src="A1.jpeg" width="48">
+<img src="A1.jpeg" width="200"><img src="A2.jpeg" width="200"><img src="A3.jpeg" width="200"><img src="A4.jpeg" width="200">
 
 
 
