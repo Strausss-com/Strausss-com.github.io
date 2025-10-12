@@ -1,7 +1,7 @@
 # The flat in Montmartre
 
 ## Photos
-![alt text](A1.jpeg){:height="80px"}.
+![alt text](A1.jpeg| width=100)
 
 ## Arrival
 - Top code, Bottom code, key
