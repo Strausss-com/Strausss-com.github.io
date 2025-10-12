@@ -1,7 +1,7 @@
 # The flat in Montmartre
 
 ## Photos
-![alt text](A1.jpg)
+![alt text](A1.jpeg)
 
 ## Arrival
 
