@@ -6,20 +6,40 @@
 |![alt text](A3.jpeg)|![alt text](A6.jpeg)|![alt text](A7.jpeg)|Hello|
 
 ## Arrival
+- Top code, Bottom code, key
+- Heating on 
+ONLY  if instructed:
+- Washing machine water on in bathroom (counterclockwise)
+- Hot water on (fuse box opposite front door)
+- Water main tap on (under kitchen sink)
 
 ## Departure
+- All rubbish & perishables out 
+- All windows closed except kitchen window slightly ajar (1 finger)
+- All inner doors open
+- 2xfans plugged in, timers synched
+- Fridge off and door open  (unless told otherwise)
+- Heating off x3 (unless told otherwise)
+ONLY if instructed:
+- Washing machine water off in bathroom (clockwise)
+- Hot water off (fuse box opposite front door)
+- Water main tap off (under kitchen sink)
 
 ## During your stay
 - Wifi password 
+- Air
 
 ### Door
 - Lock
 - Curtain
+- Fuse box
 
 ### Kitchen
 - Dishwasher
 - Window: The window opens up on a 7-floor inner aeartion column = good air. Always leave this window a little bit ajar
-- Microwave: If the power strip was switched off and it is blinking,  
+- Microwave: If the power strip was switched off and it is blinking,
+- Rubbish:
+- Water na
 
 ### WC
 - Open the tap slowly, the water pressure is high and the sink is tiny.
@@ -32,6 +52,7 @@
 - Desk
 - Tools & stuff
 - Petrol Heating
+- Wall
 
 ### Living room
 - Couch fold 
@@ -47,12 +68,13 @@
 ### Bathroom
 - Shower curtain
 - Squeegee:
-- Washing machine 
+- Washing machine water, programs, stuff
+- Laundromat
 
 ## Going Outside
 ### Bakeries
 - Opposite
-- Opposite
+- Up the road
 - Pain Pain
   
 ### Groceries
