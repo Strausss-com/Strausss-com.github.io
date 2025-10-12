@@ -1,3 +1,21 @@
-# Strausss-com.github.io
+### The flat in Montmartre
 
-hello World
+# Photos
+
+
+# Arrival
+
+# Departure
+
+## Inside
+- Wifi password 
+
+## Outside
+# Groceries
+
+# Restaurants
+
+# Shops
+
+# Places
+
