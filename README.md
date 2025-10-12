@@ -1,21 +1,62 @@
-### The flat in Montmartre
+# The flat in Montmartre
 
-# Photos
+## Photos
 
 
-# Arrival
+## Arrival
 
-# Departure
+## Departure
 
-## Inside
+## During your stay
 - Wifi password 
 
+### Door
+- Lock
+- Curtain
+
+### Kitchen
+
+### WC
+- Open the tap slowly, the water pressure is high and the sink is tiny.
+- All cleaning tools should be in the cupboard : Vacum, broom, mop, bucket.
+- Any cleaning supplies not here will be under the kitchen sink. 
+- There is an aeration vent in the cupboard leading to the outside. Leave the cupboard door ajar when you leave
+
+### Dining Room
+- Table extends
+- Desk
+- Construction
+- Heating
+
+### Living room
+- Couch
+- Matress
+- Bedding
+- TV stuff
+  
+### Bedroom
+- Bottom drawer
+- Doors open when not sleeping
+
+### Bathroom
+- Shower curtain
+- Squeegee:
+- Washing machine 
+
 ## Outside
-# Groceries
+### Groceries
 
-# Restaurants
 
-# Shops
+### Shops 
+- 2nd hand clothes
+- Castorama
+- Gifi
+- St Pierre
 
-# Places
+### Bars & Restaurants
 
+### Places
+- Sacré Coeur
+- Cimetiere
+- Small round
+- Louvre
