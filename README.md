@@ -8,6 +8,7 @@
 ## Arrival
 - Top code, Bottom code, key
 - Heating on 
+
 ONLY  if instructed:
 - Washing machine water on in bathroom (counterclockwise)
 - Hot water on (fuse box opposite front door)
@@ -20,6 +21,7 @@ ONLY  if instructed:
 - 2xfans plugged in, timers synched
 - Fridge off and door open  (unless told otherwise)
 - Heating off x3 (unless told otherwise)
+
 ONLY if instructed:
 - Washing machine water off in bathroom (clockwise)
 - Hot water off (fuse box opposite front door)
@@ -108,7 +110,8 @@ ONLY if instructed:
 - Cimetiere
 - Small round
 - Louvre
-## Filthy lying photosby KLD
+- 
+## Filthy lying photos by KLD :)
 |![alt text](A1.jpeg)|![alt text](A2.jpeg)|![alt text](A3.jpeg)|![alt text](A4.jpeg)|
 |--------------------|--------------------|--------------------|--------------------|
 |![alt text](A3.jpeg)|![alt text](A6.jpeg)|![alt text](A7.jpeg)|Hello|
