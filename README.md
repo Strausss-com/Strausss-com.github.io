@@ -2,6 +2,9 @@
 
 ## Photos
 ![alt text](A1.jpeg| width=100)
+<img src="A1.jpeg" width="48">
+
+
 
 ## Arrival
 - Top code, Bottom code, key
