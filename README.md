@@ -1,8 +1,8 @@
 # The flat in Montmartre
 ## Videos
 - Getting in - TBD
-- Short walkthrough - https://youtube.com/shorts/6mJ3P33e6As?feature=share
-- Long walkthrough - https://youtu.be/eYzcQZDt4AE
+- Short walkthrough - <a href="https://youtube.com/shorts/6mJ3P33e6As?feature=share">Video</a>
+- Long walkthrough - <a href="https://youtu.be/eYzcQZDt4AE">Video</a>
 
 ## Arrival
 - See "Getting in" video - code 2x at the top, keysafe  at the bottom, key is annoying
@@ -86,18 +86,18 @@
 - Shower curtain - see short & long video
 - Squeegee in the shower if you are feeling generous
 - Washing machine: Note there is a tap underneath for water (usually on unless labled). the eco-40 water, programs, stuff
-- Laundromat just outside has an 8 minute dryer program that kicks ass https://maps.app.goo.gl/5JVKbJEFCxnwd2DT8
+- Laundromat just outside has an 8 minute dryer program that kicks ass <a href="https://maps.app.goo.gl/5JVKbJEFCxnwd2DT8">Link</a>
 
 ## Going Outside
 ### Bakeries
-- Literally across the street, 2 minutes and back - https://maps.app.goo.gl/dwKWFyRkyNgDro3L8 closed evenings & weekends
-- Up the road, often a queue, has bread later in the evening than above, better croissants https://maps.app.goo.gl/VZDZRajVvA6nuXpLA worth the walk  
-- Pain Pain next door if the others are closed https://maps.app.goo.gl/dwKWFyRkyNgDro3L8 Pro tip: If you are only getting baguette, you can skip the queuen by going in the left hand door 
+- Literally across the street, 2 minutes and back - <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">Link</a> closed evenings & weekends
+- Up the road, often a queue, has bread later in the evening than above, better croissants <a href="https://maps.app.goo.gl/VZDZRajVvA6nuXpLA">Link</a> worth the walk  
+- Pain Pain next door if the others are closed <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">Link</a> Pro tip: If you are only getting baguette, you can skip the queuen by going in the left hand door 
   
 ### Groceries
-- Intermarché express:, well stocked, convenient, unique layout https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA AND you don't have to walk down & up the hill
-- Carrefour: slightly larger than above https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA
-- Minimart: https://maps.app.goo.gl/2hcecM8zcEseJqnF8 if you need a beer at 3:30 a.m. and only want to walk 53 meters  
+- Intermarché express:, well stocked, convenient, unique layout <a href="https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA">Link</a> AND you don't have to walk down & up the hill
+- Carrefour: slightly larger than above <a href="https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA">Link</a>
+- Minimart: <a href="https://maps.app.goo.gl/2hcecM8zcEseJqnF8">Link</a> if you need a beer at 3:30 a.m. and only want to walk 53 meters  
 - Butcher: 
 
 ### Shops 
@@ -132,7 +132,7 @@
 
 <img src="5Be2.jpeg" width="200"><img src="6Ki1.jpeg" width="200"><img src="7Ba1.jpeg" width="200"><img src="8KT1.jpeg" width="200">
 
-## Filthy lying photos by KLD :)
-|![alt text](A1.jpeg)|![alt text](A2.jpeg)|![alt text](A3.jpeg)|![alt text](A4.jpeg)|
-|--------------------|--------------------|--------------------|--------------------|
-|![alt text](A3.jpeg)|![alt text](A6.jpeg)|![alt text](A7.jpeg)|Hello|
+## Filthy older lying photos by KLD :)
+<img src="A1.jpeg" width="200"><img src="A2.jpeg" width="200"><img src="A3.jpeg" width="200"><img src="A4.jpeg" width="200">
+
+<img src="A5.jpeg" width="200"><img src="A6.jpeg" width="200"><img src="A7.jpeg" width="200"><img src="A8.jpeg" width="200">
