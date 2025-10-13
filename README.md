@@ -71,19 +71,19 @@ ONLY if instructed:
 - Shower curtain
 - Squeegee:
 - Washing machine water, programs, stuff
-- Laundromat
+- Laundromat just outside has an 8 minute dryer program that kicks ass https://maps.app.goo.gl/5JVKbJEFCxnwd2DT8
 
 ## Going Outside
 ### Bakeries
-- Opposite
-- Up the road
-- Pain Pain
+- Literally across the street, 2 minutes and back - https://maps.app.goo.gl/dwKWFyRkyNgDro3L8 closed evenings & weekends
+- Up the road, often a queue, has bread later in the evening than above, better croissants https://maps.app.goo.gl/VZDZRajVvA6nuXpLA worth the walk  
+- Pain Pain next door if the others are closed https://maps.app.goo.gl/dwKWFyRkyNgDro3L8 Pro tip: If you are only getting baguette, you can skip the queuen by going in the left hand door 
   
 ### Groceries
-- Intermarché
-- Carrefour
-- Minimart
-- Butcher
+- Intermarché express:, well stocked, convenient, unique layout https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA AND you don't have to walk down & up the hill
+- Carrefour: slightly larger than above https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA
+- Minimart: https://maps.app.goo.gl/2hcecM8zcEseJqnF8 if you need a beer at 3:30 a.m. and only want to walk 53 meters  
+- Butcher: 
 
 ### Shops 
 - 2nd hand clothes
