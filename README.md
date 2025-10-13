@@ -29,7 +29,7 @@
 - Water main tap off (under kitchen sink)
 - Dishwasher water off (under kitchen sink)
 
-## During your stay
+## INSIDE
 - Wifi password - QR code next to entrance door, deroom door, dining room router  
 - Air - see long walkthrough video about 2x fans with timers
 
@@ -88,7 +88,7 @@
 - Washing machine: Note there is a tap underneath for water (usually on unless labled). the eco-40 water, programs, stuff
 - Laundromat just outside has an 8 minute dryer program that kicks ass <a href="https://maps.app.goo.gl/5JVKbJEFCxnwd2DT8">Link</a>
 
-## Going Outside
+## OUTSIDE
 ### Bakeries
 - Literally across the street, 2 minutes and back - <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">Link</a> closed evenings & weekends
 - Up the road, often a queue, has bread later in the evening than above, better croissants <a href="https://maps.app.goo.gl/VZDZRajVvA6nuXpLA">Link</a> worth the walk  
