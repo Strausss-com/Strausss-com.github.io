@@ -42,8 +42,7 @@ ONLY if instructed:
 - Curtain in front of door inside against the cold
 - Fuse box opposite front door, potentially turn on hot water
 
-### Kitchen
-<img src="6Ki1.jpeg" width="200">
+### Kitchen <img src="6Ki1.jpeg" width="200">
 - Dishwasher: Ensure to use "3 in 1" tab as theer si no salt container. Always keep the rinsing liquid topped up  "liquide the rincage"
 - Window: The window opens up on a 7-floor inner aeartion column = good air. Always leave this window a little bit ajar
 - Microwave: If the power strip was switched off and micorwave is blinking "12:00", press start button 3 times. See long video for more
@@ -68,7 +67,8 @@ ONLY if instructed:
 - Fabric-covered wall: The first rule of East wall is that we don't talk about East wall
 
 ### Living room
-<img src="2Lr1.jpeg" width="200">
+<img src="2Lr1.jpeg" width="200"><img src="3Lr2.jpeg" width="200">
+
 - Couch folds out to 160 bed 
 - Additional mattress
 - Bedding & towels in the chest of drawers
@@ -127,6 +127,7 @@ ONLY if instructed:
 
 ## Photos
 <img src="1Dr1.jpeg" width="200"><img src="2Lr1.jpeg" width="200"><img src="3Lr2.jpeg" width="200"><img src="4Be1.jpeg" width="200">
+
 <img src="5Be2.jpeg" width="200"><img src="6Ki1.jpeg" width="200"><img src="7Ba1.jpeg" width="200"><img src="8KT1.jpeg" width="200">
 
 ## Filthy lying photos by KLD :)
