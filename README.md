@@ -1,5 +1,4 @@
 # The flat in Montmartre
-
 ## Videos
 - Getting in - TBD
 - Short walkthrough - https://youtube.com/shorts/6mJ3P33e6As?feature=share
@@ -42,7 +41,9 @@ ONLY if instructed:
 - Curtain in front of door inside against the cold
 - Fuse box opposite front door, potentially turn on hot water
 
-### Kitchen <img src="6Ki1.jpeg" width="200">
+### Kitchen 
+<img src="6Ki1.jpeg" width="200">
+
 - Dishwasher: Ensure to use "3 in 1" tab as theer si no salt container. Always keep the rinsing liquid topped up  "liquide the rincage"
 - Window: The window opens up on a 7-floor inner aeartion column = good air. Always leave this window a little bit ajar
 - Microwave: If the power strip was switched off and micorwave is blinking "12:00", press start button 3 times. See long video for more
@@ -53,6 +54,7 @@ ONLY if instructed:
 
 ### WC
 <img src="8KT1.jpeg" width="200">
+
 - Open the tap slowly, the water pressure is high and the sink is tiny.
 - All cleaning tools should be in the cupboard : Vacum, broom, mop, bucket.
 - Any cleaning supplies not here will be under the kitchen sink. 
@@ -60,6 +62,7 @@ ONLY if instructed:
 
 ### Dining Room
 <img src="1Dr1.jpeg" width="200">
+
 - Table extends
 - Desk has a dell docking station
 - Tools & materials in the corner: Ignore (unless you wish to do some DIY!)
@@ -76,10 +79,12 @@ ONLY if instructed:
 - Electric heating: Set to basic 20-21-22
   
 ### Bedroom
+
 <img src="4Be1.jpeg" width="200"><img src="5Be2.jpeg" width="200">
 - Leave both doors open when not sleeping
 
 ### Bathroom
+
 <img src="7Ba1.jpeg" width="200">
 - Shower curtain - see short & long video
 - Squeegee in the shower if you are feeling generous
