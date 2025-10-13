@@ -8,10 +8,11 @@
 - See "Getting in" video - code 2x at the top, keysafe  at the bottom, key is annoying
 - Turn up heaters if needed 
 
-ONLY  if instructed:
+**ONLY** if instructed:
 - Washing machine water on in bathroom (counterclockwise)
 - Hot water on (fuse box opposite front door)
 - Water main tap on (under kitchen sink)
+- Dishwasher water on (under kitchen sink)
 
 ## Departure
 - All rubbish & perishables out 
@@ -22,17 +23,18 @@ ONLY  if instructed:
 - Fridge off and door open  (unless told otherwise)
 - Heating off x3 (unless told otherwise)
 
-ONLY if instructed:
+**ONLY** if instructed:
 - Washing machine water off in bathroom (clockwise)
 - Hot water off (fuse box opposite front door)
 - Water main tap off (under kitchen sink)
+- Dishwasher water off (under kitchen sink)
 
 ## During your stay
-- Wifi password - QR code 
+- Wifi password - QR code next to entrance door, deroom door, dining room router  
 - Air - see long walkthrough video about 2x fans with timers
 
 ### Entrance
-- Dont lock yourself out! We tend to put the key on the floor next to the door
+- Dont lock yourself out! We tend to put the key on the floor next to the door inside - store Koladés number!
 - Curtain in front of door inside against the cold
 - Fuse box opposite front door, potentially turn on hot water
 
