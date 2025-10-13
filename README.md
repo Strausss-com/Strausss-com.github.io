@@ -4,11 +4,6 @@
 - Short walkthrough - https://youtube.com/shorts/6mJ3P33e6As?feature=share
 - Long walkthrough - https://youtu.be/eYzcQZDt4AE
 
-## Photos
-<img src="1Dr1.jpeg" width="200"><img src="2Lr1.jpeg" width="200"><img src="3Lr2.jpeg" width="200"><img src="4Be1.jpeg" width="200">
-
-<img src="5Be2.jpeg" width="200"><img src="6Ki1.jpeg" width="200"><img src="7Ba1.jpeg" width="200"><img src="8KT1.jpeg" width="200">
-
 ## Arrival
 - See "Getting in" video - code 2x at the top, keysafe  at the bottom, key is annoying
 - Turn up heaters if needed 
