@@ -1,13 +1,17 @@
 # The flat in Montmartre
 
+## Videos
+- Getting in - TBD
+- Short walkthrough - https://youtube.com/shorts/6mJ3P33e6As?feature=share
+- Long walkthrough - https://youtu.be/eYzcQZDt4AE
+
 ## Photos
-<img src="A1.jpeg" width="200"><img src="A2.jpeg" width="200"><img src="A3.jpeg" width="200"><img src="A4.jpeg" width="200">
-
-
+<img src="1Dr1.jpeg" width="200"><img src="2Lr1.jpeg" width="200"><img src="3Lr2.jpeg" width="200"><img src="4Be1.jpeg" width="200">
+<img src="5Be2.jpeg" width="200"><img src="6Ki1.jpeg" width="200"><img src="7Ba1.jpeg" width="200"><img src="8KT1.jpeg" width="200">
 
 ## Arrival
-- Top code, Bottom code, key
-- Heating on 
+- See "Getting in" video - code 2x at the top, keysafe  at the bottom, key is annoying
+- Turn up heaters if needed 
 
 ONLY  if instructed:
 - Washing machine water on in bathroom (counterclockwise)
@@ -18,6 +22,7 @@ ONLY  if instructed:
 - All rubbish & perishables out 
 - All windows closed except kitchen window slightly ajar (1 finger)
 - All inner doors open
+- Lock window handles, close all curtains
 - 2xfans plugged in, timers synched
 - Fridge off and door open  (unless told otherwise)
 - Heating off x3 (unless told otherwise)
@@ -28,49 +33,56 @@ ONLY if instructed:
 - Water main tap off (under kitchen sink)
 
 ## During your stay
-- Wifi password 
-- Air
+- Wifi password - QR code 
+- Air - see long walkthrough video about 2x fans with timers
 
-### Door
-- Lock
-- Curtain
-- Fuse box
+### Entrance
+- Dont lock yourself out! We tend to put the key on the floor next to the door
+- Curtain in front of door inside against the cold
+- Fuse box opposite front door, potentially turn on hot water
 
 ### Kitchen
-- Dishwasher
+<img src="6Ki1.jpeg" width="200">
+- Dishwasher: Ensure to use "3 in 1" tab as theer si no salt container. Always keep the rinsing liquid topped up  "liquide the rincage"
 - Window: The window opens up on a 7-floor inner aeartion column = good air. Always leave this window a little bit ajar
-- Microwave: If the power strip was switched off and it is blinking,
-- Rubbish:
-- Water na
+- Microwave: If the power strip was switched off and micorwave is blinking "12:00", press start button 3 times. See long video for more
+- Toaster: See long video for more
+- Rubbish: Upstairs on level 0 to the right as you exit the elevator, then through the door, right left left. Yellow lid is recyclables. Green list is the rest. Glass outside opposite front door.
+- Additional Cleaning supplies under the sink
+- Water main tap under the sink. Water to Dishwasher under the sink, usually on unless labelled
 
 ### WC
+<img src="8KT1.jpeg" width="200">
 - Open the tap slowly, the water pressure is high and the sink is tiny.
 - All cleaning tools should be in the cupboard : Vacum, broom, mop, bucket.
 - Any cleaning supplies not here will be under the kitchen sink. 
 - There is an aeration vent in the cupboard leading to the outside. please leave the cupboard door ajar when you leave
 
 ### Dining Room
+<img src="1Dr1.jpeg" width="200">
 - Table extends
-- Desk
-- Tools & stuff
-- Petrol Heating
-- Wall
+- Desk has a dell docking station
+- Tools & materials in the corner: Ignore (unless you wish to do some DIY!)
+- Petrol Heating:  
+- Fabric-covered wall: The first rule of East wall is that we don't talk about East wall
 
 ### Living room
-- Couch fold 
-- Matress
-- Bedding
-- TV stuff
-- Electric heating
+<img src="2Lr1.jpeg" width="200">
+- Couch folds out to 160 bed 
+- Additional mattress
+- Bedding & towels in the chest of drawers
+- TV & soundbar: You'll figure it out if you want it badly enough
+- Electric heating: Set to basic 20-21-22
   
 ### Bedroom
-- Bottom drawer
-- Doors open when not sleeping
+<img src="4Be1.jpeg" width="200"><img src="5Be2.jpeg" width="200">
+- Leave both doors open when not sleeping
 
 ### Bathroom
-- Shower curtain
-- Squeegee:
-- Washing machine water, programs, stuff
+<img src="7Ba1.jpeg" width="200">
+- Shower curtain - see short & long video
+- Squeegee in the shower if you are feeling generous
+- Washing machine: Note there is a tap underneath for water (usually on unless labled). the eco-40 water, programs, stuff
 - Laundromat just outside has an 8 minute dryer program that kicks ass https://maps.app.goo.gl/5JVKbJEFCxnwd2DT8
 
 ## Going Outside
@@ -111,6 +123,11 @@ ONLY if instructed:
 - Small round
 - Louvre
 - 
+
+## Photos
+<img src="1Dr1.jpeg" width="200"><img src="2Lr1.jpeg" width="200"><img src="3Lr2.jpeg" width="200"><img src="4Be1.jpeg" width="200">
+<img src="5Be2.jpeg" width="200"><img src="6Ki1.jpeg" width="200"><img src="7Ba1.jpeg" width="200"><img src="8KT1.jpeg" width="200">
+
 ## Filthy lying photos by KLD :)
 |![alt text](A1.jpeg)|![alt text](A2.jpeg)|![alt text](A3.jpeg)|![alt text](A4.jpeg)|
 |--------------------|--------------------|--------------------|--------------------|
