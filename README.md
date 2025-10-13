@@ -1,6 +1,6 @@
 # The flat in Montmartre
-## Videos
-- Getting in - TBD
+## Videos 
+- Getting in - <a href="https://youtu.be/UgWd0wF6wAc">Video</a>
 - Short walkthrough - <a href="https://youtube.com/shorts/6mJ3P33e6As?feature=share">Video</a>
 - Long walkthrough - <a href="https://youtu.be/eYzcQZDt4AE">Video</a>
 
