@@ -78,11 +78,13 @@
 ### Bedroom
 
 <img src="4Be1.jpeg" width="200"><img src="5Be2.jpeg" width="200">
+
 - Leave both doors open when not sleeping
 
 ### Bathroom
 
 <img src="7Ba1.jpeg" width="200">
+  
 - Shower curtain - see short & long video
 - Squeegee after shower if you are feeling generous
 - Washing machine: Note there is a tap underneath for water (usually on unless labled). the eco-40 water, programs, stuff
