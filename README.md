@@ -5,7 +5,7 @@
 - Long walkthrough - <a href="https://youtu.be/eYzcQZDt4AE">Video</a>
 
 ## Arrival
-- See "Getting in" video - code 2x at the top, keysafe  at the bottom, key is annoying
+- See "Getting in" video - door code 2x at the top (or chip), keysafe at the bottom, key is annoying
 - Turn up heaters if needed 
 
 **ONLY** if instructed:
@@ -41,12 +41,12 @@
 ### Kitchen 
 <img src="6Ki1.jpeg" width="200">
 
-- Dishwasher: Ensure to use "3 in 1" tab as theer si no salt container. Always keep the rinsing liquid topped up  "liquide the rincage"
+- Dishwasher: Ensure to use "3 in 1" tab as there is no salt container. Always keep the rinsing liquid topped up "liquide the rincage"
 - Window: The window opens up on a 7-floor inner aeartion column = good air. Always leave this window a little bit ajar
 - Microwave: If the power strip was switched off and micorwave is blinking "12:00", press start button 3 times. See long video for more
-- Toaster: See long video for more
-- Rubbish: Upstairs on level 0 to the right as you exit the elevator, then through the door, right left left. Yellow lid is recyclables. Green list is the rest. Glass outside opposite front door.
-- Additional Cleaning supplies under the sink
+- Toaster: See long video for more, press blue button to interrupt/pop up
+- Rubbish: Upstairs on level 0 to the right as you exit the elevator, then through the door, right left left. Yellow lid is recyclables. Green lid is the rest. Glass outside opposite front door.
+- Additional cleaning supplies under the sink
 - Water main tap under the sink. Water to Dishwasher under the sink, usually on unless labelled
 
 ### WC
@@ -63,7 +63,7 @@
 - Table extends
 - Desk has a dell docking station
 - Tools & materials in the corner: Ignore (unless you wish to do some DIY!)
-- Petrol Heating:  
+- Petrol Heating: video TBD
 - Fabric-covered wall: The first rule of East wall is that we don't talk about East wall
 
 ### Living room
@@ -84,7 +84,7 @@
 
 <img src="7Ba1.jpeg" width="200">
 - Shower curtain - see short & long video
-- Squeegee in the shower if you are feeling generous
+- Squeegee after shower if you are feeling generous
 - Washing machine: Note there is a tap underneath for water (usually on unless labled). the eco-40 water, programs, stuff
 - Laundromat just outside has an 8 minute dryer program that kicks ass <a href="https://maps.app.goo.gl/5JVKbJEFCxnwd2DT8">Link</a>
 
