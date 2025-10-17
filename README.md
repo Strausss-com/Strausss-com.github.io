@@ -85,49 +85,53 @@
 
 <img src="7Ba1.jpeg" width="200">
   
-- Shower curtain - see short & long video
+- Shower curtain - see <a href="https://youtube.com/shorts/6mJ3P33e6As?feature=share">short</a> and <a href="https://youtu.be/eYzcQZDt4AE">long</a> video
 - Squeegee after shower if you are feeling generous
 - Washing machine: Note there is a tap underneath for water (usually on unless labled). the eco-40 water, programs, stuff
-- Laundromat just outside has an 8 minute dryer program that kicks ass <a href="https://maps.app.goo.gl/5JVKbJEFCxnwd2DT8">Link</a>
+- <a href="https://maps.app.goo.gl/5JVKbJEFCxnwd2DT8">Laundromat</a> diagonally opposite has an 8 minute dryer program that kicks ass 
 
 ## OUTSIDE
 ### Bakeries
-- Literally across the street, 2 minutes and back - <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">Link</a> closed evenings & weekends
-- Up the road, often a queue, has bread later in the evening than above, better croissants <a href="https://maps.app.goo.gl/VZDZRajVvA6nuXpLA">Link</a> worth the walk  
-- Pain Pain next door if the others are closed <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">Link</a> Pro tip: If you are only getting baguette, you can skip the queuen by going in the left hand door 
-  
+- <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">"Au levain d'antan"</a> Literally across the street, 2 minutes there and back from the dining table  - closed evenings & weekends
+- <a href="https://maps.app.goo.gl/VZDZRajVvA6nuXpLA">"Alexine"</a> Up the road, often a queue, has bread later in the evening than previous, better croissants  worth the walk  
+- <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">"Pain Pain"</a> next door if the others are closed. Pro tip: If you are only getting baguette, you can skip the queuen by going in the left hand door. SOmewhat industrial.
+- <a href="https://maps.app.goo.gl/yAX6bmhcsxe8NKURA">"Les copains"</a>: Across the street, the pastries look amazing however are overprived and oversugared HOWEVER you can try the single (!) espresso for €2. Single only - it is absolute rocket fuel.
+-   
 ### Groceries
-- Intermarché express:, well stocked, convenient, unique layout <a href="https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA">Link</a> AND you don't have to walk down & up the hill
-- Carrefour: slightly larger than above <a href="https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA">Link</a>
-- Minimart: <a href="https://maps.app.goo.gl/2hcecM8zcEseJqnF8">Link</a> if you need a beer at 3:30 a.m. and only want to walk 53 meters  
-- Butcher: 
+- <a href="https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA">"Intermarché Express"</a>: well stocked, convenient, unique layout  AND you don't have to walk down & up the hill
+- <a href="https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA">Carrefour</a>: slightly larger than above 
+- <a href="https://maps.app.goo.gl/2hcecM8zcEseJqnF8">"Paris Market" minimart</a>: if you need a beer and an apple at 3:30 a.m. and only want to walk 53 meters  
+- <a href="https://maps.app.goo.gl/Y4c4xZXNeXFHqfqm9">"Boucherie Jacky Gaudin"</a>: an acceptable butcher, not many left. Please let us know if you find other / better 
 
 ### Shops 
-- 2nd hand clothes
-- Castorama
-- Gifi
-- St Pierre
-- Au Kilo
+- 2nd hand clothes <a href="https://maps.app.goo.gl/yPLXWQbvZ2ZxjhnZ8">"Guerisol"</a>, <a href="https://maps.app.goo.gl/wMbdwdfpasJgc1Af8">"Guerisol 2"</a>, <a href="https://maps.app.goo.gl/gdA2KeU7WfoHw5pS8">"Emmaüs"</a>
+- <a href="https://maps.app.goo.gl/SeRewx663sQw2dZ98">"Castorama"</a>: DIY store
+- <a href="https://maps.app.goo.gl/4xDPLKPiXCqieDPQA">"Gifi"</a>: Cheap home goods
+- <a href="https://maps.app.goo.gl/kNX1KdyeowXzZcKD6">"St. Pierre"</a>: THE O.G. fabric store. Lots of wannabes near there.
+- <a href="https://maps.app.goo.gl/skAhJjACWREDsmpP7 Au Kilo">"Bijoux au poids"</a>: Silver jewelry by weight
 
 ### Bars & Restaurants
-- Clints
-- Danielle
-- Boite Aux letters
-- Flunch
-- Cheap booze?
-- Paul ramen?
-- Nems?
-- Burger?
-- Jap?
-- DÖNER?!??
-- Lipp
+- <a href="https://maps.app.goo.gl/CFdZf9jUvELVU4e19">"Le petit Café de Montmartre"</a>: Danielle the 80+ year old owner is one of last ones to remember Jack 
+- <a href="https://maps.app.goo.gl/rioQCCRCfmXstcP59">"Chez Clint"</a>: Where we held Jack's wake
+- <a href="https://maps.app.goo.gl/eg4Nc2NNFnGvt5JL9">"La Boîte aux Lettres"</a>: Good restaurant, very solid price/performance. Reservation recommended
+- <a href="https://maps.app.goo.gl/Y37Lj1KxFNiwD3Y69">"Chez Celiane"</a>: Chinese takeout, fun buying 2-3 different individual items for a Euro each. Samosas good, the chicken spring roll aint great, vegetable better, have not tried the dishes.
+- <a href="https://maps.app.goo.gl/47WSBTB9S9x1uFfS7">"Dumbo"</a>: Popular Burger, takeout only
+- <a href="https://maps.app.goo.gl/gHvvGGH6F5UTXPZS8">"Shinjuku Pigalle"</a>: Slightly hipster Japanese.
+- <a href="https://maps.app.goo.gl/AUmJPjLzNygZugwS6">"Nagoya Ramen"</a>: Acceptable asian noodles
+- <a href="">"Mascotte"</a>: Seafood and atmosphere. Only if someone else picks up the tab - expensive
+- <a href="https://maps.app.goo.gl/i17YN8SQFHo3WnJB6">"Flunch"</a>: ONLY for bankrupt studendts & artists. They have a small salad bowl for 2.95 (not weight), any main dish comes with "Unlimited vegetables" including good fries - a way to get fiber in between all the baguette. With the loyalty card you get a free coffee,.
+- <a href="https://maps.app.goo.gl/krfM4RSC8DogvmWd9">"Brasserie Lipp"</a>: Far away, classic & not cheap
+
+WE ARE STILL ACTIVELY LOOKING FOR:
+- A place with cheap beer to sit nearby (<€5 per drink)
+- The one good Döner
+
 
 ### Places
 - Sacré Coeur
 - Cimetiere
 - Small round
 - Louvre
-- 
 
 ## Photos
 <img src="1Dr1.jpeg" width="200"><img src="2Lr1.jpeg" width="200"><img src="3Lr2.jpeg" width="200"><img src="4Be1.jpeg" width="200">
