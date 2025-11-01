@@ -67,7 +67,7 @@
 - Fabric-covered wall: The first rule of East wall is that we don't talk about East wall
 
 ### Living room
-<img src="2Lr1.jpeg" width="400"><img src="3Lr2.jpeg" width="200">
+<img src="2Lr1.jpeg" width="400"><img src="3Lr2.jpeg" width="400">
 
 - Couch folds out to 160 bed 
 - Additional mattress
