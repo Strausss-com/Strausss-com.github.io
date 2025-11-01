@@ -39,7 +39,7 @@
 - Fuse box opposite front door, potentially turn on hot water
 
 ### Kitchen 
-<img src="6Ki1.jpeg" width="200">
+<img src="6Ki1.jpeg" width="400">
 
 - Dishwasher: Ensure to use "3 in 1" tab as there is no salt container. Always keep the rinsing liquid topped up "liquide the rincage"
 - Window: The window opens up on a 7-floor inner aeartion column = good air. Always leave this window a little bit ajar
@@ -50,7 +50,7 @@
 - Water main tap under the sink. Water to Dishwasher under the sink, usually on unless labelled
 
 ### WC
-<img src="8KT1.jpeg" width="200">
+<img src="8KT1.jpeg" width="400">
 
 - Open the tap slowly, the water pressure is high and the sink is tiny.
 - All cleaning tools should be in the cupboard : Vacum, broom, mop, bucket.
@@ -58,7 +58,7 @@
 - There is an aeration vent in the cupboard leading to the outside. please leave the cupboard door ajar when you leave
 
 ### Dining Room
-<img src="1Dr1.jpeg" width="200">
+<img src="1Dr1.jpeg" width="400">
 
 - Table extends
 - Desk has a dell docking station
@@ -67,7 +67,7 @@
 - Fabric-covered wall: The first rule of East wall is that we don't talk about East wall
 
 ### Living room
-<img src="2Lr1.jpeg" width="200"><img src="3Lr2.jpeg" width="200">
+<img src="2Lr1.jpeg" width="400"><img src="3Lr2.jpeg" width="200">
 
 - Couch folds out to 160 bed 
 - Additional mattress
@@ -77,13 +77,13 @@
   
 ### Bedroom
 
-<img src="4Be1.jpeg" width="200"><img src="5Be2.jpeg" width="200">
+<img src="4Be1.jpeg" width="400"><img src="5Be2.jpeg" width="400">
 
 - Leave both doors open when not sleeping
 
 ### Bathroom
 
-<img src="7Ba1.jpeg" width="200">
+<img src="7Ba1.jpeg" width="400">
   
 - Shower curtain - see <a href="https://youtube.com/shorts/6mJ3P33e6As?feature=share">short</a> and <a href="https://youtu.be/eYzcQZDt4AE">long</a> video
 - Squeegee after shower if you are feeling generous
@@ -109,18 +109,22 @@
 - <a href="https://maps.app.goo.gl/4xDPLKPiXCqieDPQA">"Gifi"</a>: Cheap home goods
 - <a href="https://maps.app.goo.gl/kNX1KdyeowXzZcKD6">"St. Pierre"</a>: THE O.G. fabric store. Lots of wannabes near there.
 - <a href="https://maps.app.goo.gl/skAhJjACWREDsmpP7 Au Kilo">"Bijoux au poids"</a>: Silver jewelry by weight
+- <a href="https://www.lagrandeepicerie.com/fr">La Grande Épicerie de Paris"</a>: The final boss of food stores.
 
 ### Bars & Restaurants
 - <a href="https://maps.app.goo.gl/CFdZf9jUvELVU4e19">"Le petit Café de Montmartre"</a>: Danielle the 80+ year old owner is one of last ones to remember Jack 
 - <a href="https://maps.app.goo.gl/rioQCCRCfmXstcP59">"Chez Clint"</a>: Where we held Jack's wake
 - <a href="https://maps.app.goo.gl/eg4Nc2NNFnGvt5JL9">"La Boîte aux Lettres"</a>: Good restaurant, very solid price/performance. Reservation recommended
+- <a href="https://lacouveemontmartre.com/">"La Couvée"</a>: recommended by Kicki & Uli, French not cheap 
 - <a href="https://maps.app.goo.gl/Y37Lj1KxFNiwD3Y69">"Chez Celiane"</a>: Chinese takeout, fun buying 2-3 different individual items for a Euro each. Samosas good, the chicken spring roll aint great, vegetable better, have not tried the dishes.
 - <a href="https://maps.app.goo.gl/47WSBTB9S9x1uFfS7">"Dumbo"</a>: Popular Burger, takeout only
 - <a href="https://maps.app.goo.gl/gHvvGGH6F5UTXPZS8">"Shinjuku Pigalle"</a>: Slightly hipster Japanese.
 - <a href="https://maps.app.goo.gl/AUmJPjLzNygZugwS6">"Nagoya Ramen"</a>: Acceptable asian noodles
+- <a href="https://maps.app.goo.gl/PkZHorEjZUPrQr1n7">"Au Délice du Sacré-Coeur"</a>: West African, recommended by Sola (and maybe Seyi)
 - <a href="">"Mascotte"</a>: Seafood and atmosphere. Only if someone else picks up the tab - expensive
-- <a href="https://maps.app.goo.gl/i17YN8SQFHo3WnJB6">"Flunch"</a>: ONLY for bankrupt studendts & artists. They have a small salad bowl for 2.95 (not weight), any main dish comes with "Unlimited vegetables" including good fries - a way to get fiber in between all the baguette. With the loyalty card you get a free coffee,.
+- <a href="https://maps.app.goo.gl/i17YN8SQFHo3WnJB6">"Flunch"</a>: ONLY for bankrupt studendts & artists. They have a small salad bowl for 2.95 (not weight), any main dish comes with "Unlimited vegetables" including good fries - a way to get fiber in between all the baguette. With the loyalty card you get a free coffee.
 - <a href="https://maps.app.goo.gl/krfM4RSC8DogvmWd9">"Brasserie Lipp"</a>: Far away, classic & not cheap
+
 
 WE ARE STILL ACTIVELY LOOKING FOR:
 - A place with cheap beer to sit nearby (<€5 per drink)
