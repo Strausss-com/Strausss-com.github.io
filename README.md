@@ -92,11 +92,11 @@
 
 ## OUTSIDE
 ### Bakeries
-- <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">"Au levain d'antan"</a> Literally across the street, 2 minutes there and back from the dining table  - closed evenings & weekends
+- <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">"Au levain d'antan"</a> Literally across the street, 2 minutes there and back from the dining table  - closed evenings & weekends. Quality has peaked, talke below walk if you have time.
 - <a href="https://maps.app.goo.gl/VZDZRajVvA6nuXpLA">"Alexine"</a> Up the road, often a queue, has bread later in the evening than previous, better croissants  worth the walk  
-- <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">"Pain Pain"</a> next door if the others are closed. Pro tip: If you are only getting baguette, you can skip the queuen by going in the left hand door. SOmewhat industrial.
+- <a href="https://maps.app.goo.gl/dwKWFyRkyNgDro3L8">"Pain Pain"</a> next door if the others are closed. Pro tip: If you are only getting baguette, you can skip the queuen by going in the left hand door. Somewhat industrial.
 - <a href="https://maps.app.goo.gl/yAX6bmhcsxe8NKURA">"Les copains"</a>: Across the street, the pastries look amazing however are overprived and oversugared HOWEVER you can try the single (!) espresso for €2. Single only - it is absolute rocket fuel.
--   
+
 ### Groceries
 - <a href="https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA">"Intermarché Express"</a>: well stocked, convenient, unique layout  AND you don't have to walk down & up the hill
 - <a href="https://maps.app.goo.gl/UbnZcjmJf6QhYuhZA">Carrefour</a>: slightly larger than above 
@@ -112,8 +112,7 @@
 - <a href="https://www.lagrandeepicerie.com/fr">La Grande Épicerie de Paris"</a>: The final boss of food stores.
 
 ### Bars & Restaurants
-- <a href="https://maps.app.goo.gl/CFdZf9jUvELVU4e19">"Le petit Café de Montmartre"</a>: Danielle the 80+ year old owner is one of last ones to remember Jack 
-- <a href="https://maps.app.goo.gl/rioQCCRCfmXstcP59">"Chez Clint"</a>: Where we held Jack's wake
+- <a href="https://maps.app.goo.gl/Q8veHR85UAjfAy4MA">"Bouillon Pigalle"</a>: Unequalled price-performance - also huge qzueus. Book ahead or go outside normal hours.
 - <a href="https://maps.app.goo.gl/eg4Nc2NNFnGvt5JL9">"La Boîte aux Lettres"</a>: Good restaurant, very solid price/performance. Reservation recommended
 - <a href="https://lacouveemontmartre.com/">"La Couvée"</a>: recommended by Kicki & Uli, French not cheap 
 - <a href="https://maps.app.goo.gl/Y37Lj1KxFNiwD3Y69">"Chez Celiane"</a>: Chinese takeout, fun buying 2-3 different individual items for a Euro each. Samosas good, the chicken spring roll aint great, vegetable better, have not tried the dishes.
@@ -122,14 +121,14 @@
 - <a href="https://maps.app.goo.gl/AUmJPjLzNygZugwS6">"Nagoya Ramen"</a>: Acceptable asian noodles
 - <a href="https://maps.app.goo.gl/PkZHorEjZUPrQr1n7">"Au Délice du Sacré-Coeur"</a>: West African, recommended by Sola (and maybe Seyi)
 - <a href="">"Mascotte"</a>: Seafood and atmosphere. Only if someone else picks up the tab - expensive
+- <a href="https://maps.app.goo.gl/CFdZf9jUvELVU4e19">"Le petit Café de Montmartre"</a>: Danielle the 80+ year old owner is one of last ones to remember Jack 
+- <a href="https://maps.app.goo.gl/rioQCCRCfmXstcP59">"Chez Clint"</a>: Where we held Jack's wake
 - <a href="https://maps.app.goo.gl/i17YN8SQFHo3WnJB6">"Flunch"</a>: ONLY for bankrupt studendts & artists. They have a small salad bowl for 2.95 (not weight), any main dish comes with "Unlimited vegetables" including good fries - a way to get fiber in between all the baguette. With the loyalty card you get a free coffee.
 - <a href="https://maps.app.goo.gl/krfM4RSC8DogvmWd9">"Brasserie Lipp"</a>: Far away, classic & not cheap
 
-
 WE ARE STILL ACTIVELY LOOKING FOR:
 - A place with cheap beer to sit nearby (<€5 per drink)
-- The one good Döner
-
+- The one good Döner - try the "Sürpriz" or "Gemüse"
 
 ### Places
 - Sacré Coeur
