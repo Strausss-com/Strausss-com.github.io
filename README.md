@@ -1,3 +1,12 @@
+<div style="overflow:hidden; border-radius:8px; margin-bottom:1.5em;">
+  <iframe
+    src="https://calendar.google.com/calendar/embed?src=YOUR_CALENDAR_ID%40gmail.com&ctz=Europe%2FParis&mode=MONTH&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0"
+    style="border:0; width:100%; height:500px;"
+    frameborder="0"
+    scrolling="no">
+  </iframe>
+</div>
+
 # The flat in Montmartre
 ## Videos 
 - Getting in - <a href="https://youtu.be/UgWd0wF6wAc">Video</a>
